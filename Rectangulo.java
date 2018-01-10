@@ -12,7 +12,7 @@ public class Rectangulo {
     }
     
     public double perimetro (){
-        double perimetro = (lado*2)+(ancho*2);
+        double perimetro = (lado*2)+(ancho*2);//Obtiene el perimetro
         return perimetro;
     }
 
